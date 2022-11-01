@@ -1,2 +1,2 @@
 # cherry-pick-test-1101
-個人用cherry-pickの練習test2
+個人用cherry-pickの練習test-1
